@@ -1,2 +1,3 @@
-# king-tut
-king-tut Website design
+# KING-TUT
+
+KING-TUT Website design
